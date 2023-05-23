@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Neverbloom/static/css/main.1c9eb639.css",
+    "main.js": "/Neverbloom/static/js/main.21199a02.js",
+    "static/js/787.e2acecc6.chunk.js": "/Neverbloom/static/js/787.e2acecc6.chunk.js",
+    "static/media/carousel3.png": "/Neverbloom/static/media/carousel3.b6d217263f79269f4bc1.png",
+    "static/media/carousel2.png": "/Neverbloom/static/media/carousel2.35444de5c2c953437583.png",
+    "static/media/carousel1.png": "/Neverbloom/static/media/carousel1.3573725388b499a1a1b1.png",
+    "index.html": "/Neverbloom/index.html",
+    "main.1c9eb639.css.map": "/Neverbloom/static/css/main.1c9eb639.css.map",
+    "main.21199a02.js.map": "/Neverbloom/static/js/main.21199a02.js.map",
+    "787.e2acecc6.chunk.js.map": "/Neverbloom/static/js/787.e2acecc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c9eb639.css",
+    "static/js/main.21199a02.js"
+  ]
+}
