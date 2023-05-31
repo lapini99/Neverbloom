@@ -1,5 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
 import {
+  MDBCollapse,
   MDBFooter,
   MDBContainer,
   MDBIcon,
@@ -9,16 +10,25 @@ import {
   MDBRipple,
   MDBBtn
 } from 'mdb-react-ui-kit';
+import Form from './form';
 
 function Footer() {
+  const [showShow, setShowShow] = useState(false);
+
+  const toggleShow = () => setShowShow(!showShow);
+
   return (
     <MDBFooter className="text-center" color='white' bgColor='dark' id='about-us'>
       <MDBContainer className='p-4'>
         <section className="text-center">
           <a class="btn btn-outline-light btn-floating m-1" href="https://twitter.com/NeverbloomP_" role="button"><i class="fab fa-twitter"></i></a>
           <a class="btn btn-outline-light btn-floating m-1" href="https://www.instagram.com/neverbloomp/" role="button"><i class="fab fa-instagram"></i></a>
+          <a class="btn btn-outline-light btn-floating m-1" role="button" onClick={toggleShow}><i class="fas fa-envelope"></i></a>
         </section>
         <br />
+        <MDBCollapse show={showShow}>
+          <Form/>
+        </MDBCollapse>
         <section className='mb-4'>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt distinctio earum repellat quaerat

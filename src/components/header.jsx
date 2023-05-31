@@ -1,5 +1,5 @@
-import React from 'react';
-import { Link } from 'react-scroll';
+import React, {useState} from 'react';
+import { MDBCollapse, MDBBtn } from 'mdb-react-ui-kit';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
@@ -21,9 +21,9 @@ function CollapseNavbar() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="/#title">Story</Nav.Link>
-            <Nav.Link href="/#gallery">Gallery</Nav.Link>
-            <Nav.Link href="/#about-us">About Us</Nav.Link>
+            <Nav.Link href="#title">Story</Nav.Link>
+            <Nav.Link href="#gallery">Gallery</Nav.Link>
+            <Nav.Link href="#about-us">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
