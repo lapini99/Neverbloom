@@ -12,7 +12,7 @@ import {
 
 function Footer() {
   return (
-    <MDBFooter className="text-center" color='white' bgColor='dark'>
+    <MDBFooter className="text-center" color='white' bgColor='dark' id='about-us'>
       <MDBContainer className='p-4'>
         <section className="text-center">
           <a class="btn btn-outline-light btn-floating m-1" href="https://twitter.com/NeverbloomP_" role="button"><i class="fab fa-twitter"></i></a>
