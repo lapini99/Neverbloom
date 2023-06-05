@@ -1,18 +1,37 @@
 {
   "files": {
-    "main.css": "/Neverbloom/static/css/main.1c9eb639.css",
-    "main.js": "/Neverbloom/static/js/main.21199a02.js",
+    "main.css": "/Neverbloom/static/css/main.39edeac9.css",
+    "main.js": "/Neverbloom/static/js/main.9946d181.js",
     "static/js/787.e2acecc6.chunk.js": "/Neverbloom/static/js/787.e2acecc6.chunk.js",
+    "static/media/fa-solid-900.svg": "/Neverbloom/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
+    "static/media/fa-brands-400.svg": "/Neverbloom/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/carousel3.png": "/Neverbloom/static/media/carousel3.b6d217263f79269f4bc1.png",
+    "static/media/fa-solid-900.eot": "/Neverbloom/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
+    "static/media/fa-solid-900.ttf": "/Neverbloom/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
     "static/media/carousel2.png": "/Neverbloom/static/media/carousel2.35444de5c2c953437583.png",
+    "static/media/fa-regular-400.svg": "/Neverbloom/static/media/fa-regular-400.4689f52cc96215721344.svg",
+    "static/media/fa-brands-400.eot": "/Neverbloom/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
+    "static/media/fa-brands-400.ttf": "/Neverbloom/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/fa-solid-900.woff": "/Neverbloom/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
+    "static/media/fa-brands-400.woff": "/Neverbloom/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
+    "static/media/Bliss.jpeg": "/Neverbloom/static/media/Bliss.4120ca037fd09b425103.jpeg",
+    "static/media/fa-solid-900.woff2": "/Neverbloom/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
+    "static/media/fa-brands-400.woff2": "/Neverbloom/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
     "static/media/carousel1.png": "/Neverbloom/static/media/carousel1.3573725388b499a1a1b1.png",
+    "static/media/fa-regular-400.eot": "/Neverbloom/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
+    "static/media/fa-regular-400.ttf": "/Neverbloom/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/numbofjoy.png": "/Neverbloom/static/media/numbofjoy.b64ae92da83a2d22be7a.png",
+    "static/media/fa-regular-400.woff": "/Neverbloom/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
+    "static/media/fa-regular-400.woff2": "/Neverbloom/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/Neverbloom/index.html",
-    "main.1c9eb639.css.map": "/Neverbloom/static/css/main.1c9eb639.css.map",
-    "main.21199a02.js.map": "/Neverbloom/static/js/main.21199a02.js.map",
+    "static/media/arrow_left.svg": "/Neverbloom/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
+    "static/media/arrow_right.svg": "/Neverbloom/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
+    "main.39edeac9.css.map": "/Neverbloom/static/css/main.39edeac9.css.map",
+    "main.9946d181.js.map": "/Neverbloom/static/js/main.9946d181.js.map",
     "787.e2acecc6.chunk.js.map": "/Neverbloom/static/js/787.e2acecc6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c9eb639.css",
-    "static/js/main.21199a02.js"
+    "static/css/main.39edeac9.css",
+    "static/js/main.9946d181.js"
   ]
 }
