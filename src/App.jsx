@@ -7,7 +7,6 @@ import WhatIsMobile from "./components/infoMobile.jsx";
 import YouTubeEmbed from "./components/youtube.jsx";
 import UncontrolledCarousel from "./components/carousel.jsx"
 import Footer from "./components/footer.jsx"; 
-import { MDBContainer } from "mdb-react-ui-kit";
 
 function App() {
   const [isDesktop, setIsDesktop] = useState(window.innerWidth > 768);

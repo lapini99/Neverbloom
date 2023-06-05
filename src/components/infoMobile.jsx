@@ -3,10 +3,7 @@ import Lady from "../assets/images/Bliss.jpeg";
 import 'mdbreact/dist/css/mdb.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import ScrollTrigger from "react-scroll-trigger";
-import {
-    MDBRow,
-    MDBCol
-} from "mdb-react-ui-kit";
+import {MDBCol} from "mdb-react-ui-kit";
 import "../../src/custom.css";
 
 
@@ -35,7 +32,7 @@ function WhatIsMobile() {
                             </p>
                         </div>
                     </ScrollTrigger>
-                    <img src={Lady} alt="image-1" id="lady-of-woe" className="figure" />
+                    <img src={Lady} alt="lady" id="lady-of-woe" className="figure" />
                 </MDBCol>
                 <MDBCol className="custom-column">
                     <ScrollTrigger onEnter={handleScrollEnterRight}>
@@ -51,7 +48,7 @@ function WhatIsMobile() {
                     </ScrollTrigger>
                 </MDBCol>
                 <MDBCol className="custom-column">
-                    <img src={Lady} alt="image-1" id="lady-of-woe" className="figure" />
+                    <img src={Lady} alt="lady" id="lady-of-woe" className="figure" />
                 </MDBCol>
             <br />
             <section className="text-center" id="gallery">
