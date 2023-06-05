@@ -42,7 +42,7 @@ function Footer() {
             <MDBCol lg='2' md='12' className='mb-4 mb-md-0'>
               <MDBRipple
                 rippleColor='light'
-                className='bg-image hover-overlay shadow-1-strong rounded'
+                className='bg-image hover-overlay'
               >
                 <img src="https://s26.q4cdn.com/977690160/files/design/U_Logo_White_RGB_1C.png" className='w-100' />
 
@@ -51,7 +51,7 @@ function Footer() {
             <MDBCol lg='2' md='12' className='mb-4 mb-md-0'>
               <MDBRipple
                 rippleColor='light'
-                className='bg-image hover-overlay shadow-1-strong rounded'
+                className='bg-image hover-overlay'
               >
                 <img src="https://www.reallusion.com/about/includes/image/press_resource_product/rl/reallusion-logo-horizontal-lightbg-grayscale_2000x443.png" className='w-100' />
 
@@ -60,7 +60,7 @@ function Footer() {
             <MDBCol lg='2' md='12' className='mb-4 mb-md-0'>
               <MDBRipple
                 rippleColor='light'
-                className='bg-image hover-overlay shadow-1-strong rounded'
+                className='bg-image hover-overlay'
               >
                 <img src='https://quixel.com/megascans_logo.png' className='w-100' />
 
@@ -69,7 +69,7 @@ function Footer() {
             <MDBCol lg='2' md='12' className='mb-4 mb-md-0'>
               <MDBRipple
                 rippleColor='light'
-                className='bg-image hover-overlay shadow-1-strong rounded'
+                className='bg-image hover-overlay'
               >
                 <img src='https://www.pngplay.com/wp-content/uploads/13/Steam-Logo-PNG-Clipart-Background.png' className='w-100' />
 
